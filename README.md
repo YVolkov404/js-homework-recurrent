@@ -1,2 +1,2 @@
-# js-homework-recurrent
+# js-homework-01
 dom | events
