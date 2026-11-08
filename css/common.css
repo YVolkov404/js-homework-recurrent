@@ -16,6 +16,13 @@ body {
 input {
   padding: 8px;
   font: inherit;
+  height: 35px;
+}
+
+#controls {
+ display: flex;
+ align-content: baseline; 
+ gap: 5px;
 }
 
 button {
@@ -24,7 +31,7 @@ button {
 }
 
 img {
-  width: 1280px;as
+  width: 1280px;
 }
 
 .gallery {
