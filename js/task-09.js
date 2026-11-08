@@ -11,7 +11,7 @@
  */
 
 function getRandomHexColor() {
-  return `#${Math.floor(Math.random() * 16777215)
+  return `#${Math.floor(Math.random() * 1677)
     .toString(16)
     .padStart(6, 0)}`;
 }
